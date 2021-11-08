@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arye321.github.io/csb-x2ube/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://arye321.github.io/csb-x2ube/static/js/main.e4f59a7f.chunk.js",
+    "main.js.map": "https://arye321.github.io/csb-x2ube/static/js/main.e4f59a7f.chunk.js.map",
+    "runtime-main.js": "https://arye321.github.io/csb-x2ube/static/js/runtime-main.fdc0df06.js",
+    "runtime-main.js.map": "https://arye321.github.io/csb-x2ube/static/js/runtime-main.fdc0df06.js.map",
+    "static/js/2.51d963c2.chunk.js": "https://arye321.github.io/csb-x2ube/static/js/2.51d963c2.chunk.js",
+    "static/js/2.51d963c2.chunk.js.map": "https://arye321.github.io/csb-x2ube/static/js/2.51d963c2.chunk.js.map",
+    "index.html": "https://arye321.github.io/csb-x2ube/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://arye321.github.io/csb-x2ube/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.51d963c2.chunk.js.LICENSE.txt": "https://arye321.github.io/csb-x2ube/static/js/2.51d963c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdc0df06.js",
+    "static/js/2.51d963c2.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e4f59a7f.chunk.js"
+  ]
+}
